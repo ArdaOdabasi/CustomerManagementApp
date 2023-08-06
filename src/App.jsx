@@ -9,7 +9,7 @@ function App() {
       <CustomerForm />
       <CustomerList />
     </div>
-  );
+  ); 
 }
 
 export default App;
