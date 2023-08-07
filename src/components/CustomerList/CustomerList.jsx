@@ -1,12 +1,14 @@
 import CustomerItem from "../CustomerItem/CustomerItem";
 import "./CustomerList.css";
 
-function CustomerList() {
-    return (
-        <ul className="customer-list">
-            <CustomerItem/>
-        </ul>
-    );
+function CustomerList({ customers }) {
+  return (
+    <ul className="customer-list">
+      {customers.map((customer) => (
+        <CustomerItem customer={customer} key={customer.id} />
+      ))}
+    </ul>
+  );
 }
 
-export default CustomerList
+export default CustomerList;

@@ -1,11 +1,12 @@
+import React from 'react';
 import "./CustomerItem.css";
 
-const CustomerItem = () => {
+const CustomerItem = ({ customer }) => {
     return (
         <li className="customer-item">
             <div className="customer-info">
                 <img src="https://i.pravatar.cc/300" alt="" className="customer-avatar"></img>
-                <span className="customer-name">Arda Odabaşı</span>
+                <span className="customer-name">{customer.customerName}</span>
             </div>
             <button className="delete-button">
                 <i className="bi bi-trash3"></i>
@@ -14,4 +15,4 @@ const CustomerItem = () => {
     );
 }
 
-export default CustomerItem; // Dışarıdan erişim sağlamamız için
+export default CustomerItem;
