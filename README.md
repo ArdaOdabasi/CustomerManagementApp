@@ -5,9 +5,9 @@
 
 ### Screenshots of the Project
 
-![1](https://github.com/ArdaOdabasi/CustomerManagementApp/assets/61662021/8082fcaf-35c2-441b-be28-953b916f8bb0)
+![1](https://github.com/ArdaOdabasi/CustomerManagementApp/assets/61662021/604d90b1-57c6-4904-8203-bf2ff91d5916)
 
-![2](https://github.com/ArdaOdabasi/CustomerManagementApp/assets/61662021/75237dab-d002-4382-94ef-bc5cae2969a8)
+![2](https://github.com/ArdaOdabasi/CustomerManagementApp/assets/61662021/9b86a3aa-a108-4015-a072-cc1a8d57f4f4)
 
-![3](https://github.com/ArdaOdabasi/CustomerManagementApp/assets/61662021/20c2483c-0ae6-4dd3-9327-d66888dc7c2c)
+![3](https://github.com/ArdaOdabasi/CustomerManagementApp/assets/61662021/8055012c-8b6c-422b-bd0b-6cf02ec8066a)
 
