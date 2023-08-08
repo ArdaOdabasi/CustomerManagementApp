@@ -30,7 +30,7 @@ const CustomerForm = ({ addNewCustomer }) => {
         value={customerName} // input değerini state'e bağla
         onChange={(e) => setCustomerName(e.target.value)}
       />
-      <button>
+      <button className='button'>
         <i className='bi bi-plus-lg'></i>
       </button>
     </form>

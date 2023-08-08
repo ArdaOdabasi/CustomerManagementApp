@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <h1>Customer Manage System</h1>
       <CustomerForm addNewCustomer={addNewCustomer} />
-      {customers.length > 0 ? <CustomerList customers={customers} /> : <p>No customers added yet.</p>}
+      {customers.length > 0 ? <CustomerList customers={customers} setCustomers={setCustomers}/> : <p>No customers added yet.</p>}
       {/* customers dizisi boş değilse CustomerList'i göster, boş ise "No customers added yet." yazısı göster */}
     </div>
   );
