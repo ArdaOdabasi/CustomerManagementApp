@@ -1,7 +1,7 @@
 ## Customer Management Application
 
-• It is a customer management application built using only "React.js". 
-• Customer addition and customer deletion operations are performed through the application.
+- It is a customer management application built using only "React.js". 
+- Customer addition and customer deletion operations are performed through the application.
 
 ### Screenshots of the Project
 
